@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mashaa3er Mosh Htetbadl
+
+This log tracks the cryptographic history and versioning for the song **Mashaa3er Mosh Htetbadl** (mashaa3er-mosh-htetbadl).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:54:44.856532 | `v1` | `6f4f57b413ef2fde61349bd42db58a3a8c08d8a1937645e5e392bb8c7a3cbec1` | `0fdbafeffcbf94f837c4bceeeca85aacc2d445f583c77c0e568ce07a194522a9` | `2026-05-08_mashaa3er-mosh-htetbadl-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
